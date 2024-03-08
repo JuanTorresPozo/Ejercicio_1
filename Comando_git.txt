@@ -1,4 +1,4 @@
-pwd muestra la ruta donde estamos posicionados
+ pwd muestra la ruta donde estamos posicionados
 (print working directory)
 ls  listar todos archivo y carpetas donde estamos posicionados
 ls -l listar todos archivo y carpetas, con detalles
